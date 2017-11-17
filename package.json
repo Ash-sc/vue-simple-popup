@@ -1,7 +1,7 @@
 {
   "name": "vue-simple-popup",
   "description": "a simple vue popup component",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "author": "Ash",
   "license": "MIT",
   "scripts": {

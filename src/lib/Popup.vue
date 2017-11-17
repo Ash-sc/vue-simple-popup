@@ -54,11 +54,12 @@ export default {
   left: 100%;
   z-index: 1025;
   background-color: rgba(0, 0, 0, .4);
+  overflow-x: hidden;
+  overflow-y: auto;
 
   .popup-body {
-    top: 50%;
-    transform: translateY(-50%);
     margin: auto;
+    margin-top: 120px;
     position: relative;
     border: 1px solid #fff;
     border-radius: 4px;
