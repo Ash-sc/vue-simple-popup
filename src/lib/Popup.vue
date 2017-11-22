@@ -56,9 +56,11 @@ export default {
   background-color: rgba(0, 0, 0, .4);
   overflow-x: hidden;
   overflow-y: auto;
+  text-align: center;
 
   .popup-body {
-    margin: auto;
+    display: inline-block;
+    text-align: left;
     margin-top: 120px;
     position: relative;
     border: 1px solid #fff;
